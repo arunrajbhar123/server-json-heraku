@@ -92,7 +92,7 @@
       "hotelSize": ["Small groups frequently book this room"],
       "hotelTerm": ["Classic Room, 1 King Bed, Non Smoking"],
       "benefit": [
-        {
+         {
           "icon": "fa-solid fa-building",
           "name": "355 sq ft"
         },
@@ -126,22 +126,6 @@
       "hotelSize": ["Small groups frequently book this room"],
       "hotelTerm": ["Classic Room, 1 King Bed, Non Smoking"],
       "benefit": [
-        {
-          "icon": "fa-solid fa-building",
-          "name": "355 sq ft"
-        },
-        {
-          "icon": "fa-solid fa-building",
-          "name": "355 sq ft"
-        },
-        {
-          "icon": "fa-solid fa-building",
-          "name": "355 sq ft"
-        },
-        {
-          "icon": "fa-solid fa-building",
-          "name": "355 sq ft"
-        },
         {
           "icon": "fa-solid fa-building",
           "name": "355 sq ft"
