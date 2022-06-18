@@ -2577,11 +2577,11 @@
         },
         {
           "name": "All meals + Special deal More details",
-          "rupees": "3500",
+          "rupees": "2500",
           "icon": "fa fa-exclamation-circle"
         }
       ],
-      "price":["15,199"]
+      "price":["20,199"]
     }
   ]
 }
