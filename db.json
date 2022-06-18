@@ -2533,7 +2533,7 @@
       "extras": [
         {
           "name": "Breakfast buffet",
-          "rupees": "0",
+          "rupees": "200",
           "icon": ""
         },
         {
@@ -2543,7 +2543,7 @@
         },
         {
           "name": "All meals + Special deal More details",
-          "rupees": "0",
+          "rupees": "2200",
           "icon": "fa fa-exclamation-circle"
         }
       ],
