@@ -2567,21 +2567,21 @@
       "extras": [
         {
           "name": "Breakfast buffet",
-          "rupees": "0",
+          "rupees": "400",
           "icon": ""
         },
         {
           "name": "Breakfast buffet + Dinner + Special deal More details",
-          "rupees": "1120",
+          "rupees": "1220",
           "icon": "fa fa-exclamation-circle"
         },
         {
           "name": "All meals + Special deal More details",
-          "rupees": "0",
+          "rupees": "2500",
           "icon": "fa fa-exclamation-circle"
         }
       ],
-      "price":["11,199"]
+      "price":["15,199"]
     }
   ]
 }
